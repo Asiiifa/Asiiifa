@@ -1,30 +1,30 @@
-Hi there 👋, I'm Asifa Hamid Khan
-I'm a curious wanderer exploring the world of technology ✨
-Currently pursuing B.Tech in Computer Science (AIML specialization) at Abdul Kalam Technical University.
-I'm passionate about coding, craft making, and painting, and I love blending creativity with technology. 🎨💻
+<h1 align="center">Hi 👋, I'm Asifa Hamid Khan</h1>
+<h3 align="center">A Passionate Software Engineer</h3>
 
-🚀 About Me
-🌱 I’m currently learning full-stack development and sharpening my Python skills.
 
-🛠️ Familiar with HTML, CSS, and Python.
+![image](https://github.com/user-attachments/assets/0ec45f1c-545a-473b-bbb5-3e8d759a4efc)">
 
-🎯 Actively participating in GSoC 2025, working on exciting open-source projects!
 
-📚 Always eager to learn new things and embrace new opportunities.
 
-🔥 Interests
-Open-source contribution 🌍
 
-Web development 🌐
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asiiifa&label=Profile%20views&color=0e75b6&style=flat" alt="asiiifa" /> </p>
 
-Machine Learning 🤖
 
-Data Visualization 📊
 
-Creative projects combining art & tech 🎨
+- 🌱 I’m currently learning **python and libraries**
 
-📫 Let's connect!
-LinkedIn: https://www.linkedin.com/in/asifa-hamid-khan
+- 📫 How to reach me **Asifayusafzai@gmail.com**
 
-Email: Asifayusafzai@gmail.com
+- ⚡ Fun fact **im learner**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/asifa-hamid-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asifa-hamid-khan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiiifa&show_icons=true&locale=en" alt="asiiifa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asiiifa&" alt="asiiifa" /></p>
