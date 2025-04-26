@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 
 
-![image](https://github.com/user-attachments/assets/0ec45f1c-545a-473b-bbb5-3e8d759a4efc)">
+![image](https://github.com/user-attachments/assets/0ec45f1c-545a-473b-bbb5-3e8d759a4efc)
 
 
 
