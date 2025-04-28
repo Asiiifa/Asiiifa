@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Asifayusafzai@gmail.com**
 
-- ⚡ Fun fact **im learner**
+- ⚡ Fun fact **Always curious to learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
