@@ -1,10 +1,9 @@
 
-  ![image](https://github.com/user-attachments/assets/0ec45f1c-545a-473b-bbb5-3e8d759a4efc.gif)
-
 <h1 align="center">Hi 👋, I'm Asifa Hamid Khan</h1>
 <h3 align="center"><u>A Passionate Software Engineer</u></h3>
 
 
+![image](https://github.com/user-attachments/assets/ed5793d3-b0e2-4d94-807b-b2e1a39aa2d4)
 
 
 
