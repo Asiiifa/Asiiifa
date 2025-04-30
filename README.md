@@ -13,9 +13,9 @@
 
 
 🌱 I’m currently learning **Python and its libraries** like Pandas, Seaborn, and TensorFlow  
-- 📚 Exploring **Machine Learning**, **NLP**, and **Data Visualization**  
-- 💻 Skilled in **HTML, CSS, Python**, and familiar with **JavaScript and C**  
-- ⚡ Fun fact: *I'm always curious to learn and explore new paths in tech!*
+📚 Exploring **Machine Learning**, **NLP**, and **Data Visualization**  
+💻 Skilled in **HTML, CSS, Python**, and familiar with **JavaScript and C**  
+⚡ Fun fact: *I'm always curious to learn and explore new paths in tech!*
 
 
 ### 🧩 Connect with me:
