@@ -59,9 +59,12 @@
 ---
 
 
-<h3 align="left" style="font-family: 'Poppins', sans-serif; font-weight: 600;">
+<h3 align="center">
+  <img src="quickentry_logo.png.png" alt="QuickEntry Logo" width="80"/>
+  <br>
   QuickEntry App – Smart Digital Log Register
 </h3>
+
 
 
 The **QuickEntry App** is a modern and smart digital log register designed to replace traditional manual registers.  
