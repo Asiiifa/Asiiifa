@@ -92,8 +92,8 @@ The register layout follows this structure:
 ---
 
 ## 🔗 Repository  
-[QuickEntry App Repo](https://github.com/asiiifa)  
-*(Replace the link with the exact repo URL when available)*  
+[QuickEntry App Repo]((https://github.com/Asiiifa/quick-entry-app))
+
 
 ---
 
