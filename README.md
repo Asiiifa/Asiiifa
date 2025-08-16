@@ -56,30 +56,47 @@
 
 ---
 
-## 🚀 Featured Projects (TechieAICoder Studios)
-> _A quick peek at my top 6 projects_
 
-- **Script2Toon** – AI storytelling app (video, comic, game, sketch→animation, photo→animation)  
-  🔗 Repo: https://github.com/asiiifa (add your exact repo link here)
+-# QuickEntry App – Smart Digital Log Register  
 
-- **QuickEntry App** – Smart digital log register (Auto Time In/Out, Dark Mode, PDF Print, Admin)  
-  🔗 Repo: https://github.com/asiiifa (add your exact repo link here)
-
-- **MoonBirth / Cosmic Snapshot** – Sky map & moon phase generator  
-  🔗 Repo: https://github.com/asiiifa (add your exact repo link here)
-
-- **AI Language Dubber for OTT** – Dubs shows/videos in user’s language  
-  🔗 Repo: https://github.com/asiiifa (add your exact repo link here)
-
-- **WomenOnly Safety Cab** – Women-only ride app with AI security features  
-  🔗 Repo: https://github.com/asiiifa (add your exact repo link here)
-
-- **Corrupt File & Virus Notifier** – Detects hidden corrupt files/junk/virus on Android  
-  🔗 Repo: https://github.com/asiiifa (add your exact repo link here)
-
-> Tip: replace the placeholder repo links with your real repositories.
+The **QuickEntry App** is a modern and smart digital log register designed to replace traditional manual registers.  
+It provides an easy-to-use interface for recording entries with automatic time tracking, dark mode support, and admin features.  
 
 ---
+
+## ✨ Features  
+- **Auto Time In/Out** → Automatically fills in *Time In* when the app opens and *Time Out* when submitting an entry.  
+- **Register-style UI** → Clean table layout with visible grid lines resembling a traditional manual register.  
+- **Dark Mode** → Toggle between light and dark themes for a better user experience.  
+- **PDF Export** → Print or save all entries in a professional PDF format.  
+- **Admin Login** → Accessible via a hidden menu (three dots on the top-left corner).  
+- **Splash Screen** → Displays the logo before loading the main interface.  
+- **Modern Fonts & Animations** → Stylish fonts with smooth animated transitions for a polished look.  
+
+---
+
+## 🖼️ Layout Overview  
+The register layout follows this structure:  
+
+| Name | Date | Time In | Time Out | Reason |  
+|------|------|---------|----------|--------|  
+
+---
+
+## 🚀 Future Enhancements  
+- Cloud backup of logs  
+- Multi-user support  
+- Mobile-first optimization  
+- Analytics dashboard  
+
+---
+
+## 🔗 Repository  
+[QuickEntry App Repo](https://github.com/asiiifa)  
+*(Replace the link with the exact repo URL when available)*  
+
+---
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -116,6 +133,6 @@
 </p>
 
 <p align="center">
-  <i>✨ Powered by TechieAICoder Studios — “Where Innovation Meets AI-Driven Code” ✨</i>
+  <i>✨ “Where Innovation Meets AI-Driven Code” ✨</i>
 </p>
 
