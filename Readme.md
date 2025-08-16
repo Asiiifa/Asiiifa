@@ -73,6 +73,8 @@ It provides an easy-to-use interface for recording entries with automatic time t
 ---
 
 ## ✨ Features  
+<img src="features.png.png" alt="App Logo" style="width:150px; display:block; margin:auto; margin-top:20px;">
+
 - **Auto Time In/Out** → Automatically fills in *Time In* when the app opens and *Time Out* when submitting an entry.  
 - **Register-style UI** → Clean table layout with visible grid lines resembling a traditional manual register.  
 - **Dark Mode** → Toggle between light and dark themes for a better user experience.  
@@ -80,6 +82,7 @@ It provides an easy-to-use interface for recording entries with automatic time t
 - **Admin Login** → Accessible via a hidden menu (three dots on the top-left corner).  
 - **Splash Screen** → Displays the logo before loading the main interface.  
 - **Modern Fonts & Animations** → Stylish fonts with smooth animated transitions for a polished look.  
+
 
 ---
 
