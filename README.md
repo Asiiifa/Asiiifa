@@ -1,64 +1,88 @@
 <h1 align="center">Hi 👋, I'm Asifa Hamid Khan</h1>
-<h3 align="center">🚀 Passionate Software Engineer | AI & ML Enthusiast</h3>
-
----
+<h3 align="center"><u>A Passionate Software Engineer</u></h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed5793d3-b0e2-4d94-807b-b2e1a39aa2d4" alt="banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;Python+Developer;ML+%26+AI+Enthusiast;Always+curious+to+learn+new+things!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asiiifa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif"/>
 </p>
 
----
-
-### 👨‍💻 About Me  
-- 🌱 Currently learning **Python, Pandas, Seaborn, TensorFlow**  
-- 📊 Exploring **Machine Learning, NLP, and Data Visualization**  
-- 💻 Skilled in **HTML, CSS, Python**, with knowledge of **JavaScript & C**  
-- ⚡ Fun fact: *Curious mind who loves experimenting with new tech paths!*  
-
----
-
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="mailto:Asifayusafzai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/asifa-hamid-khan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://github.com/asiiifa"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=asiiifa&label=Profile%20views&color=0e75b6&style=flat" alt="asiiifa" /> 
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="center"> 
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/></a>
+🌱 I’m currently learning **Python and its libraries** like Pandas, Seaborn, and TensorFlow  
+📚 Exploring **Machine Learning**, **NLP**, and **Data Visualization**  
+💻 Skilled in **HTML, CSS, Python**, and familiar with **JavaScript and C**  
+⚡ Fun fact: *I'm always curious to learn and explore new paths in tech!*  
+
+---
+
+### 🧩 Connect with me:
+<p align="left">
+  <a href="mailto:Asifayusafzai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/asifa-hamid-khan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/asiiifa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiiifa&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asiiifa&theme=radical&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiiifa&layout=compact&theme=radical" alt="top langs"/>
+<h3 align="left">🚀 Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
 </p>
 
 ---
 
-### ✨ Quote of the Day  
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asiiifa&show_icons=true&theme=tokyonight" alt="asiiifa" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiiifa&theme=tokyonight" alt="asiiifa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiiifa&layout=compact&theme=tokyonight" alt="top langs"/>
+</p>
+
+---
+
+### 🐍 Watch my contributions get eaten by a snake:
+<p align="center">
+  <img src="https://github.com/asiiifa/asiiifa/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Software Engineer Gif"/>
+</p>
