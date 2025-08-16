@@ -117,7 +117,7 @@ The register layout follows this structure:
   <img src="https://github-profile-trophy.vercel.app/?username=asiiifa&theme=onedark&no-frame=true&margin-w=8" alt="trophies" />
 </p>
 
-## 📈 Contribution Graph (clean, no snake)
+## 📈 Contribution Graph 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=asiiifa&theme=tokyo-night" alt="Asifa's activity graph"/>
@@ -128,8 +128,12 @@ The register layout follows this structure:
 
 <!-- Closing GIF (female coder) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Female Coder Animation"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Matrix Code"/>
 </p>
+
+
+
+
 
 <p align="center">
   <i>✨ “Where Innovation Meets AI-Driven Code” ✨</i>
