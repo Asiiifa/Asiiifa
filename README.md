@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Female Software Engineer"/>
 </p>
 
 <p align="left"> 
@@ -78,11 +78,17 @@
 
 ### 🐍 Watch my contributions get eaten by a snake:
 <p align="center">
+  <!-- SVG version -->
   <img src="https://github.com/asiiifa/asiiifa/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<p align="center">
+  <!-- GIF version -->
+  <img src="https://github.com/asiiifa/asiiifa/blob/output/github-contribution-grid-snake.gif" alt="snake animation gif"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Software Engineer Gif"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Female Coder"/>
 </p>
