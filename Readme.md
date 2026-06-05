@@ -58,12 +58,12 @@ Trained dual **Random Forest Regressor** models on 374 lifestyle records, achiev
 
 ---
 
-### 📋 QuickEntry — Smart Visitor Management *(Original Idea)*
-> *Paperless, secure, fast — digital visitor logging for organizations.*
+### 📋 QuickEntry — Smart Visitor Management *(Original Idea · Prototype)*
+> *A Flutter + Firebase prototype replacing paper-based visitor log registers.*
 
-3-factor authentication using **OTP + Biometric + QR Code** via Flutter and Firebase. Firebase Realtime Database syncs logs across devices in under 1 second, with automated daily/weekly PDF report generation.
+Built a working prototype for digital visitor entry logging using **Flutter and Firebase**. Designed with auto time-in/out tracking, dark mode, and PDF export capability. Currently a functional prototype — production build in roadmap.
 
-`Flutter` `Firebase` `OTP Auth` `Biometric` `QR Code`
+`Flutter` `Firebase` `Dart` `PDF Export`
 
 🔗 [GitHub](https://github.com/Asiiifa/quick-entry-app)
 
@@ -142,4 +142,4 @@ Trained dual **Random Forest Regressor** models on 374 lifestyle records, achiev
 <p align="center">
   <i>✨ "Building AI products that solve real problems — one commit at a time." ✨</i>
 </p>
-
+ 
