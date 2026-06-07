@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="380" alt="Female Software Engineer"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="Woman Coding"/>
 
 <br/>
 
