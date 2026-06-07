@@ -1,18 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A0533,100:00F5FF&height=180&section=header&text=Asifa%20Hamid%20Khan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20of%20Real%20AI%20Products&descSize=17&descAlignY=75&descFontColor=00F5FF" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+works...;Echovani+AI+%7C+Speech+to+Voice+in+24+Languages;Nidra+AI+%7C+Sleep+%26+Stress+ML+%7C+LIVE;FastAPI+%7C+Flutter+%7C+Whisper+AI+%7C+Scikit-learn;Open+to+AI%2FML+Engineer+roles+in+Delhi+NCR" alt="Typing SVG"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=80&lines=ASIFA+HAMID+KHAN" alt="Name"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asiiifa&label=PROFILE+VIEWS&color=BD00FF&style=for-the-badge"/>
-  &nbsp;
-  <a href="https://linkedin.com/in/asifa-hamid-aiml"><img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  &nbsp;
-  <a href="mailto:asifayusafzai@gmail.com"><img src="https://img.shields.io/badge/GMAIL-BD00FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://asiiifa.github.io/asifa-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=00F5FF"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=800&color=BD00FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%7C+Builder+of+Real+AI+Products;Echovani+AI+%7C+Speech+to+Voice+in+24+Languages;Nidra+AI+%7C+Sleep+%26+Stress+ML+%7C+LIVE+NOW;FastAPI+%7C+Flutter+%7C+Whisper+AI+%7C+Scikit-learn;Open+to+AI%2FML+Roles+in+Delhi+NCR" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=asiiifa&label=PROFILE+VIEWS&color=BD00FF&style=for-the-badge"/>
+&nbsp;
+<a href="https://linkedin.com/in/asifa-hamid-aiml"><img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+&nbsp;
+<a href="mailto:asifayusafzai@gmail.com"><img src="https://img.shields.io/badge/GMAIL-BD00FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://asiiifa.github.io/asifa-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=00F5FF"/></a>
+
+</div>
 
 ---
 
@@ -57,7 +59,7 @@ INPUT (Audio/Video)
 
 ### 😴 `02` — NIDRA AI · Sleep & Stress Predictor ⚡ LIVE
 
-Dual **Random Forest Regressor** models on 374 lifestyle records — **~90% R² accuracy** predicting stress + sleep score (0–100 scale). Deployed with Supabase auth, PostgreSQL, Row-Level Security.
+Dual **Random Forest Regressor** models on 374 lifestyle records — **~90% R² accuracy** predicting stress + sleep score (0–100). Deployed with Supabase auth, PostgreSQL, Row-Level Security.
 
 `Python` `Flask` `Scikit-learn` `Pandas` `Chart.js` `Supabase` `Render`
 
@@ -111,12 +113,7 @@ Flutter + Firebase prototype replacing paper-based registers — auto time-in/ou
 ## `[ STATS ]`
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asiiifa&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asiiifa&theme=highcontrast&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiiifa&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiiifa&theme=highcontrast&hide_border=true" width="60%"/>
 </p>
 
 <p align="center">
@@ -143,4 +140,6 @@ Flutter + Firebase prototype replacing paper-based registers — auto time-in/ou
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD00FF,100:00F5FF&height=120&section=footer&text=Building%20AI%20that%20solves%20real%20problems&fontSize=16&fontColor=0D0D0D&fontAlignY=70" width="100%"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1000&color=BD00FF&center=true&vCenter=true&width=600&lines=Building+AI+that+solves+real+problems+%E2%80%94+one+commit+at+a+time." alt="Footer"/>
+</div>
