@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1A0533,100:0D0D0D&height=200&section=header&text=ASIFA%20HAMID%20KHAN&fontSize=52&fontColor=00F5FF&animation=fadeIn&stroke=BD00FF&strokeWidth=2&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20of%20Real%20AI%20Products&descSize=18&descAlignY=75&descFontColor=BD00FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A0533,100:00F5FF&height=180&section=header&text=Asifa%20Hamid%20Khan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20of%20Real%20AI%20Products&descSize=17&descAlignY=75&descFontColor=00F5FF" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+works...;Speech+%E2%86%92+Translation+%E2%86%92+Voice+%7C+Echovani+AI+%F0%9F%8E%99%EF%B8%8F;Sleep+%26+Stress+ML+%7C+Nidra+AI+%F0%9F%98%B4+%7C+LIVE;FastAPI+%7C+Flutter+%7C+Whisper+AI+%7C+Scikit-learn;Open+to+AI%2FML+Engineer+roles+in+Delhi+NCR" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+works...;Echovani+AI+%F0%9F%8E%99%EF%B8%8F+%7C+Speech+%E2%86%92+Translation+%E2%86%92+Voice;Nidra+AI+%F0%9F%98%B4+%7C+Sleep+%26+Stress+ML+%7C+LIVE;FastAPI+%7C+Flutter+%7C+Whisper+AI+%7C+Scikit-learn;Open+to+AI%2FML+Engineer+roles+in+Delhi+NCR" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -16,13 +16,11 @@
   </a>
   &nbsp;
   <a href="https://asiiifa.github.io/asifa-portfolio">
-    <img src="https://img.shields.io/badge/PORTFOLIO-%2300F5FF.svg?style=for-the-badge&logo=vercel&logoColor=0A0A0A"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-black.svg?style=for-the-badge&logo=vercel&logoColor=00F5FF"/>
   </a>
 </p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0533,100:0D0D0D&height=2&section=header" width="100%"/>
 
 ```python
 class AsifaHamidKhan:
@@ -60,29 +58,27 @@ AUDIO/VIDEO INPUT
 
 `Python` `FastAPI` `Whisper AI` `Flutter` `NLP` `TTS` `Supabase` `Render`
 
-> 🔗 [GitHub](https://github.com/Asiiifa) &nbsp;·&nbsp; Backend complete · Flutter frontend in progress
+🔗 [GitHub](https://github.com/Asiiifa) &nbsp;·&nbsp; Backend complete · Flutter frontend in progress
 
 ---
 
 ### `02` 😴 NIDRA AI — Sleep Health & Stress Predictor ⚡ LIVE
-> *Dual ML model. Real data. Deployed.*
 
 Trained two **Random Forest Regressor** models on 374 lifestyle records. Predicts stress AND sleep score simultaneously on a 0–100 scale — **~90% R² accuracy**. Live with Supabase auth, PostgreSQL + Row-Level Security, per-user history.
 
 `Python` `Flask` `Scikit-learn` `Pandas` `Chart.js` `Supabase` `Render`
 
-> 🔗 [**Live App →**](https://nidra-ai-drgl.onrender.com) &nbsp;·&nbsp; [GitHub](https://github.com/Asiiifa)
+🔗 [**Live App →**](https://nidra-ai-drgl.onrender.com) &nbsp;·&nbsp; [GitHub](https://github.com/Asiiifa)
 
 ---
 
 ### `03` 📋 QUICKENTRY — Visitor Log App *(Prototype)*
-> *Flutter + Firebase prototype for digital visitor entry logging.*
 
-Built a working prototype replacing paper-based log registers — auto time-in/out tracking, dark mode, PDF export. Production build in roadmap.
+Flutter + Firebase prototype replacing paper-based log registers — auto time-in/out tracking, dark mode, PDF export.
 
 `Flutter` `Firebase` `Dart`
 
-> 🔗 [GitHub](https://github.com/Asiiifa/quick-entry-app)
+🔗 [GitHub](https://github.com/Asiiifa/quick-entry-app)
 
 ---
 
@@ -122,12 +118,12 @@ Built a working prototype replacing paper-based log registers — auto time-in/o
 ## `[ STATS ]`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiiifa&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&icon_color=BD00FF&text_color=FFFFFF" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiiifa&theme=highcontrast&hide_border=true&background=0D0D0D&ring=00F5FF&fire=BD00FF&currStreakLabel=00F5FF" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asiiifa&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiiifa&theme=highcontrast&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiiifa&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&text_color=FFFFFF" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiiifa&layout=compact&theme=radical&hide_border=true" width="42%"/>
 </p>
 
 <p align="center">
@@ -154,4 +150,4 @@ Built a working prototype replacing paper-based log registers — auto time-in/o
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD00FF,100:00F5FF&height=120&section=footer&text=Building%20AI%20that%20solves%20real%20problems&fontSize=18&fontColor=0D0D0D&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:BD00FF&height=120&section=footer&text=Building%20AI%20that%20solves%20real%20problems&fontSize=16&fontColor=0D0D0D&animation=twinkling&fontAlignY=70" width="100%"/>
