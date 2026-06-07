@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=40&duration=3000&pause=2000&color=4361EE&center=true&vCenter=true&width=800&height=100&lines=ASIFA+HAMID+KHAN" alt="Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2000&pause=1000&color=7209B7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=AI+%26+ML+Engineer+%7C+Delhi+NCR;Building+AI+products+that+actually+ship" alt="Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2000&pause=1000&color=7209B7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=AI+%26+ML+Engineer;Building+AI+products+that+actually+ship" alt="Title"/>
 
 <br/>
 
