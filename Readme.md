@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=40&duration=3000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=100&lines=ASIFA+HAMID+KHAN" alt="Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2000&pause=1000&color=BD00FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=AI+%26+ML+Engineer;Building+AI+products+that+actually+ship" alt="Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2000&pause=1000&color=BD00FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=AI+%26+ML+Engineer+%7C+Delhi+NCR;Building+AI+products+that+actually+ship" alt="Title"/>
 
 <br/>
 
@@ -13,6 +13,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=asiiifa&label=PROFILE+VIEWS&color=BD00FF&style=for-the-badge)
 
 <br/><br/>
+
+<img src="https://media.giphy.com/media/fDkq28pQkslOfCrMiO/giphy.gif" width="380" alt="Holographic Tech"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/asifa-hamid-aiml)
 [![Gmail](https://img.shields.io/badge/Gmail-BD00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifayusafzai@gmail.com)
