@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/fDkq28pQkslOfCrMiO/giphy.gif" width="380" alt="Holographic Tech"/>
+<img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="380" alt="Female Software Engineer"/>
 
 <br/>
 
